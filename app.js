@@ -1,6 +1,6 @@
 let listaNumerosAleatorios = [];
 minimo = 1;
-maximo = 3;
+maximo = 10;
 let numeroAleatorio = gerarNumeroAleatorio(maximo);
 console.log(numeroAleatorio);
 tentativas = 0;
